@@ -16,4 +16,7 @@ g++ DMST.cpp -o DMST
 
 ## 3) TODO
 
-Storing index to files are not provided.
+1. Storing index to files are not provided.
+2. The data structure is kind of confusing.
+3. Some of the variables are misused although they still generate correct result.
+
