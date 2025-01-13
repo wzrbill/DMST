@@ -19,4 +19,4 @@ g++ DMST.cpp -o DMST
 1. Storing index to files are not provided.
 2. The data structure is kind of confusing.
 3. Some of the variables are misused although they still generate correct result.
-
+4. Our algorithm can be accerlated by adopting Arbok's techniques into CLE's framework.
